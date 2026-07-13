@@ -27,7 +27,7 @@ I am a passionate **Software Engineer** and **Technical ServiceNow Consultant** 
 
 My professional mission is to streamline enterprise operations and improve business efficiency through process automation and data-driven solutions. I am also expanding my skills in **Business Intelligence and Big Data Analytics** to build smarter, predictive software architectures.
 
-- 🗣️ **Languages:** English (C2 - Proficient), Spanish (Native)
+- 🗣️ **Languages:** English (C2 - Proficient), Spanish (Native), Portuguese (Basic)
 - 🎯 **Goals:** Continuing to master advanced ServiceNow integrations, enterprise system design, and big data visualization.
 
 ---
