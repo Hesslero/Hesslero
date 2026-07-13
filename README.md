@@ -97,10 +97,10 @@ As a certified ServiceNow professional, I build, configure, and optimize enterpr
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hesslero&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hesler's GitHub Stats" height="195px" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Hesslero&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hesler's GitHub Stats" height="195px" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesslero&layout=compact&theme=tokyonight&hide_border=true" alt="Hesler's Top Languages" height="195px" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hesslero&layout=compact&theme=tokyonight&hide_border=true" alt="Hesler's Top Languages" height="195px" />
       </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ As a certified ServiceNow professional, I build, configure, and optimize enterpr
 
 - **Email:** [onandyzacasa@hotmail.es](mailto:onandyzacasa@hotmail.es)
 - **LinkedIn:** [linkedin.com/in/hesler-zacasa-garcia](https://linkedin.com/in/hesler-zacasa-garcia)
-- **GitHub Portfolio:** [github.com/Hesslero](https://github.com/Hesslero)
+- **Portfolio:** [Hesslero](https://hesslero.vercel.app/)
 
 <div align="center">
   <sub>Designed with ❤️ by Hesler Zacasa Garcia.</sub>
